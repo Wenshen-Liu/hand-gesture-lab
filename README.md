@@ -49,3 +49,4 @@ pip install -r requirements.txt
 ```
 
 Requires a working webcam.
+
